@@ -1,0 +1,20 @@
+!SESSION 2022-07-04 21:56:40.159 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product -application org.eclipse.jdt.apt.core.aptBuild
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product -data . -application org.eclipse.jdt.apt.core.aptBuild
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-07-04 21:56:46.283
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2022-07-04 22:00:16.047 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.java.product -application org.eclipse.jdt.apt.core.aptBuild
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product -data . -application org.eclipse.jdt.apt.core.aptBuild
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-07-04 22:00:19.738
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

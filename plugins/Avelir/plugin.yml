@@ -1,0 +1,20 @@
+name: Avelir
+version: 0.1.3
+description: Плагин на геймплейные функции.
+author: None
+main: org.avelir.MainPlugin
+commands:
+   givegun:
+      description: Give example item
+      permission: avelir.givesample
+      usage: /givegun <not take args...>
+      
+   giveab:
+      description: Give ability from gun
+      permission: avelir.giveab
+      usage: /giveab <name>
+      
+   listab:
+      description: Give list abilities of gun
+      permission: avelir.listab
+      usage: /listab
